@@ -1,0 +1,23 @@
+Drug1,Drug2,Severity,Interaction
+aspirin,warfarin,High,Increased risk of bleeding
+aspirin,ibuprofen,Medium,Increased gastrointestinal irritation
+paracetamol,alcohol,High,Liver damage risk
+metformin,alcohol,High,Risk of lactic acidosis
+amoxicillin,paracetamol,Low,Generally safe combination
+atorvastatin,grapefruit,High,Increased drug concentration in blood
+lisinopril,potassium,High,Risk of high potassium levels
+omeprazole,clopidogrel,Medium,Reduced effectiveness of clopidogrel
+ibuprofen,naproxen,High,Increased risk of stomach bleeding
+insulin,metformin,Medium,Enhanced glucose lowering effect
+aspirin,clopidogrel,High,Increased bleeding risk
+warfarin,alcohol,High,Increased bleeding tendency
+digoxin,furosemide,Medium,Electrolyte imbalance risk
+simvastatin,erythromycin,High,Increased risk of muscle damage
+paracetamol,ibuprofen,Low,Safe when used appropriately
+losartan,potassium,High,Hyperkalemia risk
+metformin,contrast dye,High,Risk of kidney damage
+amlodipine,simvastatin,Medium,Increased statin levels
+antacid,iron,Medium,Reduced iron absorption
+ciprofloxacin,dairy products,Medium,Reduced antibiotic absorption
+
+https://schedule-texture-obtaining-geneva.trycloudflare.com/
